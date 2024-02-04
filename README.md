@@ -1,4 +1,4 @@
-# goit-algo-hw-05
+# goit-algo-hw-06
 
 ### Basics algorithms and Data Structures 
 #### Master of degree from university
